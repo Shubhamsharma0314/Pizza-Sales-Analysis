@@ -1,4 +1,4 @@
-🍕 Pizza Sales Analysis — Power BI & MySQL
+# 🍕 Pizza Sales Analysis — Power BI & MySQL <br>
 📌 Project Overview
 This project focuses on analyzing pizza sales data using MySQL for data storage and processing and Power BI for visualization.
 The goal is to uncover key business insights such as revenue trends, best-selling pizzas, order patterns, and customer behavior to support data-driven decision-making.
